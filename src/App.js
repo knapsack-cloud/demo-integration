@@ -120,9 +120,6 @@ function DemoApp() {
             ],
           }}
         />
-        <Button url="#url" mode="warning" size="medium" type="solid">
-          Example
-        </Button>
       </PageLayout>
     </div>
   );
