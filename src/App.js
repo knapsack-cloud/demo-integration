@@ -1,4 +1,4 @@
-import '@knapsack-cloud/demo-design-system-styles/dist/styles.css';
+import "@knapsack-cloud/demo-design-system-styles/dist/styles.css";
 
 import {
   PageLayout,
@@ -10,7 +10,7 @@ import {
   Card,
   Author,
   Button,
-} from '@knapsack-cloud/demo-design-system-react';
+} from "@knapsack-cloud/demo-design-system-react";
 
 function DemoApp() {
   return (
@@ -26,7 +26,7 @@ function DemoApp() {
           header={
             <TopNav
               logo="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"
-              links={['#1|Product', '#2|Features', 'Marketplace', 'Company']}
+              links={["#1|Product", "#2|Features", "Marketplace", "Company"]}
               button="#login|Login"
             />
           }
@@ -95,33 +95,36 @@ function DemoApp() {
           copyright="2020 Workflow, Inc. All rights reserved."
           navigation={{
             legal: [
-              { href: '#legal-1', name: 'Claim' },
-              { href: '#legal-2', name: 'Privacy' },
-              { href: '#legal-3', name: 'Terms' },
+              { href: "#legal-1", name: "Claim" },
+              { href: "#legal-2", name: "Privacy" },
+              { href: "#legal-3", name: "Terms" },
             ],
             company: [
-              { href: '#company-1', name: 'About' },
-              { href: '#company-2', name: 'Blog' },
-              { href: '#company-3', name: 'Jobs' },
-              { href: '#company-4', name: 'Press' },
-              { href: '#company-5', name: 'Partners' },
+              { href: "#company-1", name: "About" },
+              { href: "#company-2", name: "Blog" },
+              { href: "#company-3", name: "Jobs" },
+              { href: "#company-4", name: "Press" },
+              { href: "#company-5", name: "Partners" },
             ],
             support: [
-              { href: '#support-1', name: 'Pricing' },
-              { href: '#support-2', name: 'Documentation' },
-              { href: '#support-3', name: 'Guides' },
-              { href: '#support-4', name: 'API Status' },
+              { href: "#support-1", name: "Pricing" },
+              { href: "#support-2", name: "Documentation" },
+              { href: "#support-3", name: "Guides" },
+              { href: "#support-4", name: "API Status" },
             ],
             solutions: [
-              { href: '#solutions-1', name: 'Marketing' },
-              { href: '#solutions-2', name: 'Analytics' },
-              { href: '#solutions-3', name: 'Commerce' },
-              { href: '#solutions-4', name: 'Insights' },
+              { href: "#solutions-1", name: "Marketing" },
+              { href: "#solutions-2", name: "Analytics" },
+              { href: "#solutions-3", name: "Commerce" },
+              { href: "#solutions-4", name: "Insights" },
             ],
           }}
         />
+        <Button url="#url" mode="warning" size="medium" type="solid">
+          Example
+        </Button>
       </PageLayout>
     </div>
   );
 }
-export default DemoApp
+export default DemoApp;
