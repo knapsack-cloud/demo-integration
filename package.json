@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@knapsack-cloud/demo-design-system-design-tokens": "^0.1.32",
-    "@knapsack-cloud/demo-design-system-react": "^0.1.32",
-    "@knapsack-cloud/demo-design-system-styles": "^0.1.32",
+    "@knapsack-cloud/public-demo-design-tokens": "^0.1",
+    "@knapsack-cloud/public-demo-react": "^0.1",
+    "@knapsack-cloud/public-demo-styles": "^0.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",

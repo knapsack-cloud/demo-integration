@@ -1,4 +1,4 @@
-import "@knapsack-cloud/demo-design-system-styles/dist/styles.css";
+import "@knapsack-cloud/public-demo-styles/dist/styles.css";
 
 import {
   PageLayout,
@@ -10,15 +10,15 @@ import {
   Card,
   Author,
   Button,
-} from "@knapsack-cloud/demo-design-system-react";
+} from "@knapsack-cloud/public-demo-react";
 
 function DemoApp() {
   return (
     <div className="demo-app knapsack-pattern-direct-parent">
       <PageLayout>
         <Hero
-          buttonOne="#getting-started|Get started"
-          buttonTwo="#live-demo|Live Demo"
+          buttonOne="Get started"
+          buttonTwo="Live Demo"
           paragraph="Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua."
           headlineOne="Data to enrich your "
           headlineTwo="online business"
