@@ -1532,32 +1532,32 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@knapsack-cloud/public-demo-design-tokens@^0.1", "@knapsack-cloud/public-demo-design-tokens@^0.1.43":
-  version "0.1.43"
-  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-design-tokens/0.1.43/82254273a897b99ea9bc3e2ee78d68fcfe5ef764#82254273a897b99ea9bc3e2ee78d68fcfe5ef764"
-  integrity sha512-XIuZ8auutBWOf16WhG6NDKSzb5MgjX0jDCO3DKDgkaBcYcOejW9PftDUDmhRkSHGmPhs3H3U2qZspJ051mbH1g==
+"@knapsack-cloud/public-demo-design-tokens@^0.1", "@knapsack-cloud/public-demo-design-tokens@^0.1.45":
+  version "0.1.45"
+  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-design-tokens/0.1.45/37ea23f65ce82aded284d93ae2ed5a7cc228129f#37ea23f65ce82aded284d93ae2ed5a7cc228129f"
+  integrity sha512-Quor8Bx8RYjvOTDwEu7P/2bf0ygTu4O7Ca3DnYOjQnAhouuMQU7tuYKLNENvdMvtfoRzyMzNT26N5yXcXIZMUQ==
 
 "@knapsack-cloud/public-demo-react@^0.1":
-  version "0.1.43"
-  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-react/0.1.43/41bbc812b1d81c999f8fc41611af9f0ab6e22bf9#41bbc812b1d81c999f8fc41611af9f0ab6e22bf9"
-  integrity sha512-c9naKaF7JV1z3FoIsoLe2eutP3JgeBR27gwCZ5vLRVfqTkf91sFvRhl/d3yIK+171hKOGsusqvsB98hJ7BL+Sg==
+  version "0.1.45"
+  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-react/0.1.45/4e3dbbefc2a72587e35f13d7b03c78452af60d26#4e3dbbefc2a72587e35f13d7b03c78452af60d26"
+  integrity sha512-C0QTO8jP2aaqjVrkqYAu7Sq6B/JvBgKEhsSKPqIg8M0KG9QX/t/688sNj8VmtMZyOLSoZWUj3KKs3XitGgh9Lw==
   dependencies:
-    "@knapsack-cloud/public-demo-design-tokens" "^0.1.43"
-    "@knapsack-cloud/public-demo-shared-types" "^0.1.43"
-    "@knapsack-cloud/public-demo-styles" "^0.1.43"
+    "@knapsack-cloud/public-demo-design-tokens" "^0.1.45"
+    "@knapsack-cloud/public-demo-shared-types" "^0.1.45"
+    "@knapsack-cloud/public-demo-styles" "^0.1.45"
     classnames "^2.3.1"
 
-"@knapsack-cloud/public-demo-shared-types@^0.1.43":
-  version "0.1.43"
-  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-shared-types/0.1.43/0efebfb24985f62570952c7b7b7fe32cc841848b#0efebfb24985f62570952c7b7b7fe32cc841848b"
-  integrity sha512-g3cvgIFAypDc6+U92JXvBku7Pvx71Z7CTSjMVnI/esN7l0lilqof7io//jBmtcOFq3JfWbNypXN0cUaEN0bOKw==
+"@knapsack-cloud/public-demo-shared-types@^0.1.45":
+  version "0.1.45"
+  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-shared-types/0.1.45/0c263ae006738120b3943c7f102e9ddc374a60d6#0c263ae006738120b3943c7f102e9ddc374a60d6"
+  integrity sha512-hPtNUiSsbm6bFpaEwV5eZ9pBOZ3V+v/yzDoiw0HTEywlgLDq9+CkC4/EA/fsP1H6U9KKJr7pr4gMYGXlAHSeOg==
 
-"@knapsack-cloud/public-demo-styles@^0.1", "@knapsack-cloud/public-demo-styles@^0.1.43":
-  version "0.1.43"
-  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-styles/0.1.43/e345001e8a836d9daa289cba2d716b166b13d0e3#e345001e8a836d9daa289cba2d716b166b13d0e3"
-  integrity sha512-33oMQ4ytoq2MIdMCoFjW4qzvEaqAVNRctpd85VrXcnBWvYnm8KjAkKwE6Mf8UklaK+cwbL1YIJRGQSG0Da4NNA==
+"@knapsack-cloud/public-demo-styles@^0.1", "@knapsack-cloud/public-demo-styles@^0.1.45":
+  version "0.1.45"
+  resolved "https://npm.pkg.github.com/download/@knapsack-cloud/public-demo-styles/0.1.45/59b19bc739e6f91b4b5cce808592cdd749d1c3b9#59b19bc739e6f91b4b5cce808592cdd749d1c3b9"
+  integrity sha512-MZneUI4ujzYYGyYSzYbT62Y5WDyax3N0KiisE0pLVt9OFzXppyjJQF4KqNmYvq+SY1mKBnQILdK31fpYgFWhIA==
   dependencies:
-    "@knapsack-cloud/public-demo-design-tokens" "^0.1.43"
+    "@knapsack-cloud/public-demo-design-tokens" "^0.1.45"
 
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.4"
